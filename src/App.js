@@ -8,6 +8,7 @@ function App() {
       <Example>kaleem</Example>
       <Example>hassan</Example>
       <Example>ali</Example>
+      <h1>ghgjgj</h1>
     </div>
   );
 }
